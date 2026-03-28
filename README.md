@@ -18,10 +18,6 @@ Fornecer uma solução que:
 
 - **C#** - Linguagem de programação principal
 
-## 🚀 Como Usar
-
-[Adicione instruções de como compilar, rodar e utilizar o verificador aqui]
-
 ## 📝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
